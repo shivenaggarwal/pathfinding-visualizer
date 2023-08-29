@@ -24,6 +24,6 @@ This React project uses the Dijkstra's algorithm to determine the separation bet
 
 ## Screenshots
 
-![screen1]([https://user-images.githubusercontent.com/97015991/264120755-a3c7ca39-3abf-47ca-90e4-7376d0f54a7a.png])
-![screen2]([https://user-images.githubusercontent.com/97015991/264121496-bfb65043-8dfb-4874-893e-b48f56b12ffb.png])
-![screen3]([])
+![screenshot1](https://user-images.githubusercontent.com/97015991/264120755-a3c7ca39-3abf-47ca-90e4-7376d0f54a7a.png)
+![screenshot2](https://user-images.githubusercontent.com/97015991/264121496-bfb65043-8dfb-4874-893e-b48f56b12ffb.png)
+![screenshot3](https://user-images.githubusercontent.com/97015991/264123809-e8e8747a-0225-4e5d-b1f9-24d799e791b5.png)
